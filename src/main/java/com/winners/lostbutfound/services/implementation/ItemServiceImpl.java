@@ -5,7 +5,6 @@ import com.winners.lostbutfound.exceptions.ItemNotFoundException;
 import com.winners.lostbutfound.exceptions.RegistrationException;
 import com.winners.lostbutfound.models.Item;
 import com.winners.lostbutfound.repositories.ItemRepository;
-import com.winners.lostbutfound.services.ItemOwnerService;
 import com.winners.lostbutfound.services.ItemService;
 import jakarta.validation.Valid;
 import lombok.Getter;
